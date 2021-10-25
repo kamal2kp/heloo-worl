@@ -1,2 +1,2 @@
-# heloo-worl
+# hello-world
 Help me learn Github
